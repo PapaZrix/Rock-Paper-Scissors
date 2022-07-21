@@ -1,0 +1,38 @@
+#choice {
+    text-align: center;
+    padding: 8px;
+}
+
+.button {
+    margin: 4px;
+}
+
+#results {
+    text-align: center;
+    margin-top: 24px;
+}
+
+.players {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+}
+
+.scores {
+    margin-top: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 80px;
+}
+
+.round {
+    margin-top: 24px;
+}
+
+.winner {
+    margin-top: 24px;
+    font-size: 24px;
+    font-weight: bold;
+}
